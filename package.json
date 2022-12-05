@@ -1,0 +1,24 @@
+{
+    "name": "anubit",
+    "version": "1.0.0",
+    "description": "An Upgradeable ERC20 token that is mintable, with reflections",
+    "author": "Omar Thomas",
+    "license": "MIT",
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.0.5",
+        "@nomiclabs/hardhat-etherscan": "^3.0.3",
+        "@nomiclabs/hardhat-waffle": "^2.0.3",
+        "@openzeppelin/contracts-upgradeable": "^4.7.3",
+        "@openzeppelin/hardhat-defender": "^1.6.0",
+        "@openzeppelin/hardhat-upgrades": "^1.16.0",
+        "@openzeppelin/test-helpers": "^0.5.15",
+        "chai": "^4.3.6",
+        "ethereum-waffle": "^3.4.0",
+        "ethers": "^5.6.0",
+        "hardhat": "^2.9.1"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.5.0",
+        "dotenv": "^16.0.0"
+    }
+}
